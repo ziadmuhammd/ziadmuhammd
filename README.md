@@ -9,6 +9,12 @@
 </p>
 <div size='20px'> Hi! My name is Ziad. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
+  <a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
+</a>
+<a href="mailto:i@blackcater.dev">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+</a>
 
 <h2> About Me ></h2>
 
