@@ -4,7 +4,7 @@
 <p align='center'>
 
 <div align="center">
-<img width="100%" height = "250px" src="" alt="ziad.png" />
+<img width="100%" height = "250px" src="main/ziad.png" alt="...." />
 </div>
 </p>
 <div size='20px'> Hi! My name is Ziad. Thank You for taking the time to view my GitHub Profile :smile: 
