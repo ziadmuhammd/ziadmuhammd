@@ -3,9 +3,13 @@
 <h2> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h2>
 <p align='center'>
 
-<div align="center">
+<!-- <div align="center">
 <img width="100%" height = "100%" src="Purple%20Illustration%20Google%20Classroom%20Header.png" alt="...." />
-</div>
+</div> -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+  
 </p>
 <div size='20px'> Hi! My name is Ziad. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -51,6 +55,8 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2> 
+
+
 
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
